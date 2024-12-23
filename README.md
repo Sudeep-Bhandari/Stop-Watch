@@ -32,5 +32,28 @@ A web browser is required to open and use the stopwatch.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/stopwatch.git
+2. Navigate to the project directory:
+   ```bash
+   cd calculator
+
+### Usage
+1. Open the stopwatch in your browser.
+2. Click the Start button to begin timing.
+3. Click the Stop button to pause the timer.
+4. Click the Reset button to clear the timer.
+
+# Contributing
+
+  ## We welcome contributions to improve this project. To contribute:
+
+    Fork the repository.
+    Create a new branch (git checkout -b feature-branch).
+    Make your changes.
+    Commit your changes (git commit -am 'Add new feature').
+    Push to the branch (git push origin feature-branch).
+    Open a pull request.
+
+# License
+This project is licensed under the MIT License.
 
 
