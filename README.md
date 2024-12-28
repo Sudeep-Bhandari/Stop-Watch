@@ -31,10 +31,10 @@ A web browser is required to open and use the stopwatch.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stopwatch.git
+   git clone https://github.com/Sudeep-Bhandari/Stop-Watch.git
 2. Navigate to the project directory:
    ```bash
-   cd calculator
+   cd Stop-Watch
 
 ### Usage
 1. Open the stopwatch in your browser.
