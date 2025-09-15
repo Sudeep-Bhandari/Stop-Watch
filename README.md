@@ -4,6 +4,11 @@ A simple and interactive stopwatch built using HTML, CSS, and JavaScript. This p
 
 ---
 
+##  Live Demo
+[Try it Live](https://sudeep-bhandari.github.io/Stop-Watch/)
+
+---
+
 ## Features
 
 - **Start, Stop, and Reset**: Control the stopwatch with intuitive buttons.
